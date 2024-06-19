@@ -146,7 +146,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Sonika",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1eAZ6fC8FvqmAPKSdP5bCcsb0g0OnA_Kq/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1ni74L5RbQKs3mpVfcvrTwzAa4iA3aIFj/view?usp=sharing"
 };
 
 const socialMediaLinks = {
@@ -222,7 +222,7 @@ This section guides you to deploy your portfolio on GitHub pages.
 
 You could also host directly with Netlify by linking your own repository.
 
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saadpasta/developerFolio)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/developerFolio)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
